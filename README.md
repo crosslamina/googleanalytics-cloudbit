@@ -1,4 +1,8 @@
 # googleanalytics-cloudbit
+
+##blog
+[サイトの訪問者数に応じて光るイルミネーション（cloudBit \+ Google Analytics） littleBits組み立て編](https://trim.bz/2016/11/30/7644)
+
 ##demo
 https://www.youtube.com/watch?v=cHV6f50E5b4<br />
 https://www.youtube.com/watch?v=FzI0fbnDvO0<br />
