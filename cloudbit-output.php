@@ -50,7 +50,7 @@ function output($value){
 	$url = "https://api-http.littlebitscloud.cc/v2/devices/{$device_id}/output";
 
 	$percent = round($value / $max * 100);
-    if($persent > 0){$persent = 100;}
+    if($percent > 100){$percent = 100;}
 
 	$params = json_encode(array("percent" => $percent, "duration_ms" => -1));
 
