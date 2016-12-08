@@ -1,3 +1,4 @@
+<?
 // Load the Google API PHP Client Library.
 require_once 'google-api-php-client-2.1.0/vendor/autoload.php';
 
